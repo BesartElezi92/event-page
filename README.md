@@ -2,7 +2,7 @@
 
 This project is a simple, responsive landing page for a fictional event. The goal was to create a basic HTML and CSS page showcasing knowledge of HTML5 semantic elements, CSS styling, and responsive design techniques using a mobile-first approach.
 
-![Event Page Screenshot](path-to-your-screenshot-file) <!-- Replace this with the actual screenshot path or URL -->
+![Desktop - 1](https://github.com/user-attachments/assets/f426f695-92f1-420a-ab4d-391e3dbf4c95)
 
 ## Table of Contents
 
