@@ -37,7 +37,6 @@ The Event Page is designed as a fictional event landing page that features secti
 
 - **HTML5**: Semantic elements for structure.
 - **CSS3**: Styling and responsive design with Flexbox and Grid.
-- **JavaScript**: A small interactive feature on the logo in the navigation bar.
 
 ## Setup
 
@@ -63,7 +62,6 @@ event-page/
 
 - The header includes the event logo, navigation links, and a language selector. 
 - The navigation bar allows users to jump to sections like About, Event, All Events, and Footer.
-- The logo button is interactive, displaying a fun fact when clicked.
 
 ### About Section
 
